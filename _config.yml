@@ -1,0 +1,14 @@
+layout_spectrum: 0.98865
+typography_spectrum: 0.04428066
+color:
+  saturation: 0.1470292
+  lightness: 0.01810113
+  brandStrength: 0.9989074
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#343434'
+    - '#BDBDBD'
+    - '#696969'
+  rhythmicContrast: 0.3191536
+name: CrowdControlMarketing
